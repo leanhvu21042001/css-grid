@@ -8,4 +8,5 @@
 
 section.container {
   display: grid;
+  grid-auto-flow: dense;
 }
